@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 介绍
 这是一个跟着官网文档教程做的井字棋游戏。
-链接：[https://react.docschina.org/tutorial/tutorial.html](React 中文文档)
+链接：[https://react.docschina.org/tutorial/tutorial.html](React中文文档)
 
 ## Available Scripts
 
